@@ -77,6 +77,12 @@ body {
     font-weight: bold;
 }
 
+#login-form input[type="submit"]:hover {
+    transition: 0.5s;
+    background-color: #98cff3;
+    cursor: pointer;
+}
+
 /* SEPARADOR */
 .separator {
     position: relative;
